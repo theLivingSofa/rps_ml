@@ -18,7 +18,7 @@ To create a machine learning model that can accurately classify hand gesture ima
 - **OpenCV / PIL** (if used for image loading or processing)
 
 ## 🗂️ Dataset
-- Dataset used: [Rock Paper Scissors Dataset – Kaggle]([https://www.kaggle.com/datasets/livingsofa/rock-paper-scissor-image-dataset])
+- Dataset used: [Rock Paper Scissors Dataset – Kaggle](https://www.kaggle.com/datasets/livingsofa/rock-paper-scissor-image-dataset)
 
 It contains labeled images for each of the three classes in `rock`, `paper`, and `scissors` folders.
 
