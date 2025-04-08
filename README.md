@@ -26,5 +26,5 @@ It contains labeled images for each of the three classes in `rock`, `paper`, and
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors-ml.git
-cd rock-paper-scissors-ml
+git clone https://github.com/theLivingSofa/rps_ml.git
+cd rps_ml
